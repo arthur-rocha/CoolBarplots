@@ -1,0 +1,13 @@
+Package: CoolBarplorts
+Type: Package
+Title: CoolBarplots with R
+Version: 0.1.0
+Author: Arthur Cesar Rocha
+Maintainer: Arthur Cesar Rocha <arthurcesariv@gmail.com>
+Description: Ideas for new kinds of barplots.
+    Use four spaces when indenting paragraphs within the Description.
+License: Opensource
+Encoding: UTF-8
+Imports: ggplot2, grid,gridExtra
+LazyData: true
+RoxygenNote: 6.0.1
